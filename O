@@ -175,6 +175,12 @@ http://193.46.210.28/stream/7nuf6wzjvh27uviqijvaya3yf67ga7adtp5twz9fkjdy8ey9vyrp
 https://plbl.m9.lfstrm.tv/sts/normal/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0,roskoe noch
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
+#EXTINF:-0,SOKIROJUSCE
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-0,TRICOLOR TV
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:-0,RUTV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 
 
 
