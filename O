@@ -141,8 +141,6 @@ https://plbl.m9.lfstrm.tv/history_h2_hd/normal/index.m3u8?account=3f378f7832e53c
 http://193.46.210.28/stream/isf9bxkzwky92bkscp32mw3d3zuwacd7z9awgjxfa2ujmft2jb8cim459x5xr3dxe67wckausz952mcr5yjt5ksbhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,RU TV
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF: -1, LRTHD
-http://fr01.spr24.net/791/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:0,Первый Вегетарианский hd
 https://plbl.m9.lfstrm.tv/perviy_vegetarianskiy/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0,Bridge TV Classic
@@ -173,11 +171,11 @@ http://193.46.210.28/stream/zpq9pweqwgij8h7kdakbwgcb6yd2a3fs872s3ure49dybegnknp5
 http://193.46.210.28/stream/7nuf6wzjvh27uviqijvaya3yf67ga7adtp5twz9fkjdy8ey9vyrpekvmmsjz6tqaq49kwge2m9nxx8rvpj6fgue3s3niz5trqeur4crgu2vcxi5t47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,СТС прямой
 https://plbl.m9.lfstrm.tv/sts/normal/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:0,roskoe noch
+#EXTINF:0,Русская ночь
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
-#EXTINF:-0,SOKIROJUSCE
+#EXTINF:-0,Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-0,TRICOLOR TV
+#EXTINF:-0,Остросюжетное HD
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-0,RUTV HD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
