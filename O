@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-0,NEW KINO 
+https://or-be-01.mycdn.video/watch/horror/index.m3u8?token=NJAZAMYQLP
+#EXTINF:-0,NEW KINO 2
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-0,HD KINO 
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
 #EXTINF:0,EVER MUZIC HD
 http://193.46.210.28/stream/uwa52b6cadvxu247y25yab92s34fxd6537z7vneq3ma2pdne5t78dn46aqfqyudnmazxvxg2z8nts7enmhcwx9fdhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:0,1HD MUSIC
