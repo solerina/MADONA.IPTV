@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-0,NEW KINO 6
-https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-0,NEW KINO 5
-https://or-be-01.mycdn.video/watch/action/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-0.NEW KINO 4
-https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-0,NEW KINO 3
-https://or-be-01.mycdn.video/watch/vhs/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-0,NEW KINO 
-https://or-be-01.mycdn.video/watch/horror/index.m3u8?token=NJAZAMYQLP
 #EXTINF:-0,NEW KINO 2
 https://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-0,HD KINO 
@@ -125,8 +115,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,360 RASIA
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
-#EXTINF:-1,SUPER HD
-http://85.112.114.11:8086/udp/238.2.49.249:1234
 #EXTINF:-1,KINO UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1,KINO 1
