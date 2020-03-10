@@ -193,7 +193,20 @@ http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-0,RUTV HD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-
+#EXTINF:0,vhs tv kino 
+https://or-be-01.mycdn.video/watch/vhs/tracks-v1a1/mono.m3u8?token=ZNDZVCQLLN
+#EXTINF:0,UHD 4K tv kino 
+https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=ZNDZVCQLLN
+#EXTINF:0,komedija kino tv
+https://or-be-01.mycdn.video/watch/comedy/index.m3u8?token=ZNDZVCQLLN
+#EXTINF:0,ACSION KINO 
+https://or-be-01.mycdn.video/watch/action/index.m3u8?token=ZNDZVCQLLN
+#EXTINF:0,KINO SIAUBAS 
+https://or-be-01.mycdn.video/watch/horror/index.m3u8?token=ZNDZVCQLLN
+#EXTINF:0,MENO TV
+https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=ZNDZVCQLLN
+#EXTINF:0,SEXTV 
+https://or-be-01.mycdn.video/watch/adult/index.m3u8?token=ZNDZVCQLLN
 
 
 
