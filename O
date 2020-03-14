@@ -195,7 +195,9 @@ https://or-be-01.mycdn.video/watch/horror/index.m3u8?token=ZNDZVCQLLN
 https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=ZNDZVCQLLN
 #EXTINF:0,SEXTV 
 https://or-be-01.mycdn.video/watch/adult/index.m3u8?token=ZNDZVCQLLN
-
-
+#EXTINF:0,šokiruojantis HD
+http://50.7.172.20:8081/s4g_shokiruyusche/index.m3u8?wmsAuthSign=1584193315S261106bf551324b3bb7c3ab3571045cbS75h37h742h78
+#EXTINF:0,Veiksmo kanalas HD
+http://50.7.144.155:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1584193520S8de663b1eb28a4b69f0619fae086a7c3S75h37h742h78
 
 	
