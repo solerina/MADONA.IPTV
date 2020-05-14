@@ -117,3 +117,5 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,AKUDJI TV HD
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF: -1, STRTVHD
+http://hls.goodgame.ru:80/hls/130048.m3u8
