@@ -121,3 +121,115 @@ http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.
 http://hls.goodgame.ru:80/hls/130048.m3u8
 #EXTINF:-1,STRTTV
 http://s.myowntv.org/hls/str-tv.m3u8
+#EXTINF:0,4EVER MUZIC HD
+http://193.46.210.28/stream/uwa52b6cadvxu247y25yab92s34fxd6537z7vneq3ma2pdne5t78dn46aqfqyudnmazxvxg2z8nts7enmhcwx9fdhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:0,1HD MUSIC
+https://plbl.m9.lfstrm.tv/1hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:0,EPIC DRAMA HD
+http://193.46.210.28/stream/4zh7brpw5jhxwyy2m3x3y64n7628tqgs4ii6sgvid5mssvcafie2zdf6wjja5p7533wswqx7a4gk684eskfinhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1,PETNITCA HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:0,4EVER MUZIC HD
+http://193.46.210.28/stream/uwa52b6cadvxu247y25yab92s34fxd6537z7vneq3ma2pdne5t78dn46aqfqyudnmazxvxg2z8nts7enmhcwx9fdhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1,VIASAT EXPLOR
+http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+#EXTINF:-1,MIR HD
+http://dmitry-tv.ru/his/CH_MIRHD.m3u8
+#EXTINF:-1,VIVA RUSIA HD
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,SONG TV RUSIA HD
+https://songtvru.ru/lhigh/playlist.m3u8
+#EXTINF:-1,KINO POKAZ	
+http://188.35.9.11:2021
+#EXTINF:-1,SENTANTA SPORTS EURO HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,32MUZIC HD
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1,NRJAI HITS HD
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+#EXTINF:-1,OCTROCUZETNA HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/904/index.m3u8
+#EXTINF:-1,TNT 4HD
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:-1,TV3 HD RU
+http://85.112.114.11:8086/udp/233.170.170.79:58631
+#EXTINF:-1,NOVARUSIA HD
+http://ott.inmart.tv:8081/19/index.m3u8
+##EXTINF:-1,IZVESTIA RU HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+##EXTINF:-1,VIVA RUSSIA HD
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,rusian EXTRA TV 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
+#EXTINF:-1,2×2HD
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565768638/052586ac92a1a8a6a51188d0afd717cb/playlist.m3u8
+#EXTINF:-1,INIT TV LT
+http://88.216.8.122:8080/init_tv/index.m3u8
+#EXTINF:-1,TVPLAY SPORTS
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:-1,KIDZONE
+http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:-1,BALTCUM
+http://88.216.8.122:8080/balticum/index.m3u8
+#EXTINF:-1,BALTICUM AUKSInis
+http://88.216.8.122:8080/balticum_auksinis/index.m3u8
+#EXTINF:-1,TLUM HD
+http://188.190.222.51/TLUM_HD/mpegts
+#EXTINF:-1,TV3BELARUS
+http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
+#EXTINF:-1,PETNICA HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1,EPICDRAMA HD LT
+http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,EMUSIC HD
+http://54.36.109.228/21100/mono.m3u8
+#EXTINF:-1,HTB HD
+http://188.35.9.5:10007/stolen/141n/parasite.install
+#EXTINF:-1,SENTANTA SPORTS HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1,SENTANTA SPORT + hd
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,muzic hd
+http://188.35.9.5:10007/stolen/200b/parasite.instal
+#EXTINF:-1,ROSTOV PAPA HD
+http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1,RASSIA1HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,RUTVHD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1,AKUDJO TV
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1,1HD MUSUIC TV HD
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILMSTV
+http://195.9.195.3:8080/manifest/165462_master.m3u8
+#EXTINF:-1,RENTV HD
+http://95.47.243.147/rentvhd/index.m3u8
+#EXTINF:-1,CTRASNOE HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1,PETNITCA HD
+http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
+#EXTINF:-1,STRAH TV
+http://s2.myowntv.org/hls/what.m3u8?login=beats
+#EXTINF:-1,REN HD
+http://95.47.243.147/rentvhd/index.m3u8
+#EXTINF:-1,MIR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,TV3 HD
+http://85.112.114.11:8086/udp/233.170.170.79:58631
+#EXTINF:-1,AKUDJI TV HD
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF:-1,Viasat History HD
+http://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:-1,Viasat Explorer HD
+http://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+#EXTINF:-1,TV3HD LT
+http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1,STRTV HD
+http://hls.goodgame.ru:80/hls/130048.m3u8
+#EXTINF:-1,PZNTVHD
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,TV1000 PREMIUM HD LT
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,EPIC DRAMA HD LT
+http://213.252.252.17/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
