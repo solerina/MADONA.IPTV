@@ -133,12 +133,12 @@ https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af
 http://193.46.210.28/stream/uwa52b6cadvxu247y25yab92s34fxd6537z7vneq3ma2pdne5t78dn46aqfqyudnmazxvxg2z8nts7enmhcwx9fdhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,MIR HD
 http://dmitry-tv.ru/his/CH_MIRHD.m3u8
-#EXTINF:-1,VIVA RUSIA HD
-http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,HDL HD
+http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1,SONG TV RUSIA HD
 https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1,KINO POKAZ	
-http://188.35.9.11:2021
+#EXTINF:-1,KINOUZAS 
+http://live03-cdn.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
 #EXTINF:-1,SENTANTA SPORTS EURO HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,32MUZIC HD
@@ -161,24 +161,24 @@ https://sc.id-tv.kz/Pobeda_36_37.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 #EXTINF:-1,2×2HD
 https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565768638/052586ac92a1a8a6a51188d0afd717cb/playlist.m3u8
-#EXTINF:-1,INIT TV LT
-http://88.216.8.122:8080/init_tv/index.m3u8
-#EXTINF:-1,TVPLAY SPORTS
-http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:-1,kino hit
+http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
+#EXTINF:-1,SONG TV
+http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1,NARIA HT
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1,BALTCUM
-http://88.216.8.122:8080/balticum/index.m3u8
-#EXTINF:-1,BALTICUM AUKSInis
-http://88.216.8.122:8080/balticum_auksinis/index.m3u8
+#EXTINF:-1,EUROPA +
+http://live02-cdn.tv.ti.ru:80/dtv/id795_NBN_SG--europaplushd/01/plst.m3u8
+#EXTINF:-1,EURODANCE
+http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,TLUM HD
 http://188.190.222.51/TLUM_HD/mpegts
 #EXTINF:-1,TV3BELARUS
 http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
 #EXTINF:-1,PETNICA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,EPICDRAMA HD LT
-http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,EURODANCE J
+http://v2.catcast.me/content/36987/index.m3u8
 #EXTINF:-1,EMUSIC HD
 http://54.36.109.228/21100/mono.m3u8
 #EXTINF:-1,HTB HD
