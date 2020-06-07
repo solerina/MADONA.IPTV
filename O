@@ -15,8 +15,8 @@ http://cdn.adultiptv.net/bigtits.m3u8
 http://cdn.adultiptv.net/threesome.m3u8	
 #EXTINF:-1,PORNO HUBS7
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1,TGFM RADIO CLUB 
-http://radijas.tgfm.lt:8000/
+#EXTINF:-1,TV1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1,EURODANCE 90
 https://v2.catcast.tv/content/38204/index.m3u8
 #EXTINF:-1,PORNO 1
@@ -131,8 +131,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:0,4EVER MUZIC HD
 http://193.46.210.28/stream/uwa52b6cadvxu247y25yab92s34fxd6537z7vneq3ma2pdne5t78dn46aqfqyudnmazxvxg2z8nts7enmhcwx9fdhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1,VIASAT EXPLOR
-http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
 #EXTINF:-1,MIR HD
 http://dmitry-tv.ru/his/CH_MIRHD.m3u8
 #EXTINF:-1,VIVA RUSIA HD
