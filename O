@@ -118,7 +118,7 @@ http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,AKUDJI TV HD
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
 #EXTINF: -1, STRTVHD
-http://hls.goodgame.ru:80/hls/130048.m3u8
+http://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,STRTTV
 http://s.myowntv.org/hls/str-tv.m3u8
 #EXTINF:-1,EURODANCE 90
@@ -165,8 +165,8 @@ https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565768638/05258
 http://88.216.8.122:8080/init_tv/index.m3u8
 #EXTINF:-1,TVPLAY SPORTS
 http://88.216.8.122:8080/tvplay_sports/index.m3u8
-#EXTINF:-1,KIDZONE
-http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:-1,NARIA HT
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1,BALTCUM
 http://88.216.8.122:8080/balticum/index.m3u8
 #EXTINF:-1,BALTICUM AUKSInis
