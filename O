@@ -155,10 +155,10 @@ https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a9028
 http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,NOVARUSIA HD
 http://ott.inmart.tv:8081/19/index.m3u8
-##EXTINF:-1,IZVESTIA RU HD
+#EXTINF:-1,IZVESTIA RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-##EXTINF:-1,VIVA RUSSIA HD
-http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,pabda ha
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:-1,rusian EXTRA TV 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 #EXTINF:-1,2×2HD
