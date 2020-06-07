@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://api.torrent-tv.ru/ttv.xmltv.xml.gz
-#EXTINF:-1,STRTV HD
-http://hls.goodgame.ru:80/hls/130048.m3u8
+#EXTINF:-1,STRTV HD 1
+https://ch.iptvmate.net/5e935ff08f689e2c1721f7bc.m3u8
 #EXTINF:-1,PORNO HUBS 1
 http://cdn.adultiptv.net/teen.m3u8	
 #EXTINF:-1,PORNO HUBS 2
@@ -209,16 +209,16 @@ http://95.47.243.147/rentvhd/index.m3u8
 http://persik.tv/stream/6606/411484/10697.m3u8
 #EXTINF:-1,PETNITCA HD
 http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
-#EXTINF:-1,STRAH TV
-http://s2.myowntv.org/hls/what.m3u8?login=beats
+#EXTINF:-1,HTB MIR
+http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1,REN HD
 http://95.47.243.147/rentvhd/index.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,TV3 BELARUS
 http://persik.tv/stream/6299/10/847.m3u8
-#EXTINF:-1,AKUDJI TV HD
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF:-1,KROXA MUZIC
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,CANDY MAN
 http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
 #EXTINF:-1,Rostow papa 
