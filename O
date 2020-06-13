@@ -211,8 +211,8 @@ http://persik.tv/stream/6606/411484/10697.m3u8
 http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
 #EXTINF:-1,HTB MIR
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1,REN HD
-http://95.47.243.147/rentvhd/index.m3u8
+#EXTINF:-1,STRAX HD
+http://xiptv.site/iptvteam.flv
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,TV3 BELARUS
