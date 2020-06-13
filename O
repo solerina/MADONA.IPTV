@@ -225,7 +225,7 @@ https://ch.iptvmate.net/5e935005f2245e094e515cfc.m3u8
 http://93.94.155.151:8080/tlum/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STRTV HD
 https://usb.bozztv.com/ssh101/strtv/index.m3u8
-#EXTINF:-1,PZNTVHD
+#EXTINF:-1,PZNTVHD tv
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,FILMS HD2
 http://persik.tv/stream/6606/411484/10752.m3u8
