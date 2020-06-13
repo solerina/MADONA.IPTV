@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://api.torrent-tv.ru/ttv.xmltv.xml.gz
+#EXTM3U
 #EXTINF:-1,STRTV HD 1
 https://ch.iptvmate.net/5e935ff08f689e2c1721f7bc.m3u8
 #EXTINF:-1,PORNO HUBS 1
@@ -63,8 +63,8 @@ http://cdn.adultiptv.net/russian.m3u8
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,PORNO HD TRANSVESTIT2
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1,unknownplanet
-http://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1,ZVEZDA HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,KINO 1
 http://autopilot.myowntv.org:80/content/35525/index.m3u8
 #EXTINF:-1,KINO 2
@@ -77,8 +77,8 @@ https://v2.catcast.me/content/36506/index.m3u8
 https://v2.catcast.me/content/36277/index.m3u8
 #EXTINF:-1,KINO 6
 https://v2.catcast.me/content/36251/index.m3u8
-#EXTINF:-1,KINO 7
-http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:-1,0TC HD
+https://ch.iptvmate.net/5e933c5923af692ade6d5a79.m3u8
 #EXTINF:-1,KINO 8
 https://v2.catcast.me/content/35525/index.m3u8
 #EXTINF:-1,KINO 9
@@ -107,20 +107,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,RUTVHD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1,AKUDJO TV
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1,LIUBIMA TV
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,TV3 HD
 http://85.112.114.11:8086/udp/233.170.170.79:58631
-#EXTINF:-1,AKUDJI TV HD
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF:-1,IZ.RU HD
+http://hls-igi.cdnvideo.ru/igi/igi1_hq/chunklist.m3u8
 #EXTINF: -1, STRTVHD
 http://hls.goodgame.ru/hls/130048.m3u8
 #EXTINF:-1,STRTTV
-http://s.myowntv.org/hls/str-tv.m3u8
+http://hls.goodgame.ru:80/hls/130048.m3u8
 #EXTINF:-1,EURODANCE 90
 https://v2.catcast.tv/content/36987/index.m3u8
 #EXTINF:0,1HD MUSIC
@@ -189,14 +189,14 @@ http://92.46.127.146:8080/SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1,muzic hd
 http://188.35.9.5:10007/stolen/200b/parasite.instal
-#EXTINF:-1,ROSTOV PAPA HD
+#EXTINF:-1,MAJA PLANETA 
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1,RASSIA1HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,RUTVHD
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1,AKUDJO TV
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:-1,MIR 24HD
+https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1,1HD MUSUIC TV HD
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FILMSTV
@@ -224,7 +224,7 @@ https://ch.iptvmate.net/5e935005f2245e094e515cfc.m3u8
 #EXTINF:-1,MULT HD
 http://93.94.155.151:8080/tlum/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STRTV HD
-http://hls.goodgame.ru:80/hls/130048.m3u8
+https://usb.bozztv.com/ssh101/strtv/index.m3u8
 #EXTINF:-1,PZNTVHD
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1,FILMS HD2
