@@ -203,8 +203,8 @@ https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FILMSTV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,RENTV HD
-http://95.47.243.147/rentvhd/index.m3u8
+#EXTINF:-1,STRAX TV HD
+http://xiptv.site/strahvideo
 #EXTINF:-1,nht
 http://persik.tv/stream/6606/411484/10697.m3u8
 #EXTINF:-1,PETNITCA HD
