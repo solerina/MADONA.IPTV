@@ -81,8 +81,8 @@ https://v2.catcast.me/content/36251/index.m3u8
 https://ch.iptvmate.net/5e933c5923af692ade6d5a79.m3u8
 #EXTINF:-1,KINO 8
 https://v2.catcast.me/content/35525/index.m3u8
-#EXTINF:-1,KINO 9
-https://v2.catcast.me/content/35525/index.m3u8
+#EXTINF:-1,AKUDJI 
+https://stream1.cybergame.tv/live/akudjio.m3u8
 #EXTINF:-1,PORNO HUBS 1
 http://cdn.adultiptv.net/teen.m3u8	
 #EXTINF:-1,PORNO HUBS 2
@@ -113,8 +113,8 @@ https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
 http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,TV3 HD
-http://85.112.114.11:8086/udp/233.170.170.79:58631
+#EXTINF:-1,akudji ru
+https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,IZ.RU HD
 http://hls-igi.cdnvideo.ru/igi/igi1_hq/chunklist.m3u8
 #EXTINF: -1, STRTVHD
