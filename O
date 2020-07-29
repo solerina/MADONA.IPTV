@@ -79,69 +79,33 @@ http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,IZ.RU HD
-http://hls-igi.cdnvideo.ru/igi/igi1_hq/chunklist.m3u8
-#EXTINF: -1, STRTVHD
-http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,STRTTV
-http://hls.goodgame.ru:80/hls/130048.m3u8
 #EXTINF:-1,EURODANCE 90
 https://v2.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1,RASIA RTR
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-1,MIR HD
-http://dmitry-tv.ru/his/CH_MIRHD.m3u8
-#EXTINF:-1,HDL HD
-http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1,SONG TV RUSIA HD
 https://songtvru.ru/lhigh/playlist.m3u8
 #EXTINF:-1,KINOUZAS 
 http://live03-cdn.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
-#EXTINF:-1,SENTANTA SPORTS EURO HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1,32MUZIC HD
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1,NRJAI HITS HD
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1,OCTROCUZETNA HD
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/904/index.m3u8
 #EXTINF:-1,TNT 4HD
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
-#EXTINF:-1,TV3 HD RU
-http://85.112.114.11:8086/udp/233.170.170.79:58631
 #EXTINF:-1,IZVESTIA RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,pabda ha
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:-1,rusian EXTRA TV 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-#EXTINF:-1,2×2HD
-https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565768638/052586ac92a1a8a6a51188d0afd717cb/playlist.m3u8
-#EXTINF:-1,kino hit
-http://live02-cdn.tv.ti.ru:80/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8
-#EXTINF:-1,SONG TV
-http://songtvru.ru:8060/hd/playlist.m3u8
-#EXTINF:-1,NARIA HT
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1,EUROPA +
-http://live02-cdn.tv.ti.ru:80/dtv/id795_NBN_SG--europaplushd/01/plst.m3u8
 #EXTINF:-1,EURODANCE
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,PETNICA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,EURODANCE J
 http://v2.catcast.me/content/36987/index.m3u8
-#EXTINF:-1,EMUSIC HD
-http://54.36.109.228/21100/mono.m3u8
 #EXTINF:-1,HTB HD
 http://188.35.9.5:10007/stolen/141n/parasite.install
-#EXTINF:-1,SENTANTA SPORTS HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1,SENTANTA SPORT + hd
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1,muzic hd
-http://188.35.9.5:10007/stolen/200b/parasite.instal
-#EXTINF:-1,MAJA PLANETA 
+#EXTINF:-1,neizvesnaj planeta
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1,RASSIA1HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -149,58 +113,12 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1,MIR 24HD
 https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1,1HD MUSUIC TV HD
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FILMSTV
-http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,PETNITCA HD
-http://134.249.101.234:6878/ace/getstream?url=http://pomoyka.win/trash/ttv-list/acelive/as_cid_68730a.acelive
-#EXTINF:-1,HTB MIR
-http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,KROXA MUZIC
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,CANDY MAN
 http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
-#EXTINF:-1,Rostow papa 
-https://ch.iptvmate.net/5e935005f2245e094e515cfc.m3u8
-#EXTINF:-1,MULT HD
-http://93.94.155.151:8080/tlum/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STRTV HD
-https://usb.bozztv.com/ssh101/strtv/index.m3u8
-#EXTINF:-1,PZNTVHD tv
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,FILMS HD2
-http://persik.tv/stream/6606/411484/10752.m3u8
-#EXTINF:-1,FILMS HD
-https://ch.iptvmate.net/5e93585ba655d41c45676c68.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",43 HD
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",A1
-http://188.93.95.34:80/amedia/index.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",A2
-https://sc.id-tv.kz/amedia_2_36_37.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",A2 HD
-http://185.150.130.123:8000/play/str169
-#EXTINF:-1 group-title="Кино и Сериалы",Amedia HBO
-http://188.35.9.11:21131/udp/164g
-#EXTINF:-1 group-title="Кино и Сериалы",Amedia Hit
-https://sc.id-tv.kz/amedia_hit_hd_38_39.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",Amedia Hit HD
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",Amedia Premium
-http://188.93.95.34:80/amediapremium/index.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",Amedia Premium HD
-http://hlstv.kem.211.ru/239.211.211.171/stream.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",Bollywood
-http://178.163.13.43:4022/udp/234.0.0.195:2000
-#EXTINF:-1 group-title="Кино и Сериалы",Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_38_39.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",CBS Drama
-http://primestreams.tv:826/tato/tato1/1655
-#EXTINF:-1 group-title="Кино и Сериалы",Cinema
-https://sc.id-tv.kz/Cinema_38_39.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Evgen Serial
 https://autopilot.catcast.tv/content2/36168/index.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Evgen СССР
