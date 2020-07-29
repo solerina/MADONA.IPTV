@@ -39,7 +39,7 @@ http://cdn.adultiptv.net/compilation.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1,brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1,LOLITA PORNO1
+#EXTINF:-1,MILF 2
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1,milf
 http://live.redtraffic.xyz/milf.m3u8
@@ -51,8 +51,6 @@ https://www.ast.tv/stream/1/ultra.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1,ZVEZDA HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,KINO 1
-http://autopilot.myowntv.org:80/content/35525/index.m3u8
 #EXTINF:-1,KINO 2
 https://v2.catcast.me/content/37033/index.m3u8
 #EXTINF:-1,KINO 3
@@ -68,7 +66,7 @@ https://ch.iptvmate.net/5e933c5923af692ade6d5a79.m3u8
 #EXTINF:-1,KINO 8
 https://v2.catcast.me/content/35525/index.m3u8
 #EXTINF:-1,LTR radias
-https:\lituanica-dvr.lrt.lt\lrt_radijas\hls\lrt_radijas_cam1_480p\index.m3u8
+https:\lituanica-dvr.lrt.lt\lrt_radijas\hls\lrt_radijas_cam1_480p\index.m3u
 #EXTINF:-1,NOVARUSIA HD
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1,rusian EXTRA TV 
@@ -89,8 +87,6 @@ http://hls.goodgame.ru/hls/130048.m3u8
 http://hls.goodgame.ru:80/hls/130048.m3u8
 #EXTINF:-1,EURODANCE 90
 https://v2.catcast.tv/content/36987/index.m3u8
-#EXTINF:0,1HD MUSIC
-https://plbl.m9.lfstrm.tv/1hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,RASIA RTR
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:-1,MIR HD
