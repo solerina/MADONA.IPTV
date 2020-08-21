@@ -1,4 +1,8 @@
 #EXTM3U 
+#EXTINF:-1,FILTV
+https://ch.iptvmate.net/5e93589ea655d41c45676c83.m3u8
+#EXTINF:-1,FIT BOX
+http://92.43.140.249/s86/04.m3u8?version=2
 #EXTINF:-1,STRTV HD 
 https://ch.iptvmate.net/5e935ff08f689e2c1721f7bc.m3u8
 #EXTINF:-1,teen
