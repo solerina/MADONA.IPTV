@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,EURODANCAS
-https://ch.iptvmate.net/5e935841a655d41c45676c55.m3u8
-#EXTINF:-1,KIDZONE HD
-https://ch.iptvmate.net/5e935881a8414961bd42ff87.m3u8
-#EXTINF:-1,LNK HD
-https://ch.iptvmate.net/5e9358e2a655d41c45676c9a.m3u8
+#EXTINF:-1,STR TV
+https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
+#EXTINF:-1,STR TV 1
+https://tna5.bozztv.com/strtv/index.m3u8
+#EXTINF:-1,STR TV 2
+http: //hls.goodgame. ru: 80 / hls / 130048.m3u8
 #EXTINF:-1,LNK
 https://ch.iptvmate.net/5e9358e2a655d41c45676c9b.m3u8
 #EXTINF:-1,LRT PLIUS HD
