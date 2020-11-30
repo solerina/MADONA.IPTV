@@ -7,8 +7,8 @@ https://tna5.bozztv.com/strtv/index.m3u8
 http: //hls.goodgame. ru: 80 / hls / 130048.m3u8
 #EXTINF:-1,LNK
 https://ch.iptvmate.net/5e9358e2a655d41c45676c9b.m3u8
-#EXTINF:-1,LRT PLIUS HD
-https://ch.iptvmate.net/5e9358e4a655d41c45676c9f.m3u8
+#EXTINF:-1, TGFM RADIJAS
+http://radijas.tgfm.lt:8000/
 #EXTINF:-1,LRT HD
 https://ch.iptvmate.net/5e9358e7a655d41c45676ca2.m3u8
 #EXTINF:-1,LRYTAS TV
