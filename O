@@ -13,8 +13,8 @@ http://radijas.tgfm.lt:8000/
 http://cdnnow.goodgame.ru/hls/182277.m3u8
 #EXTINF:-1,STR-TV5
 http://dmitry-tv.my1.ru/his/02/CH_STRTV.m3u8
-#EXTINF:-1,LOLO TV
-https://ch.iptvmate.net/5e9359278f689e2c1721f593.m3u8
+#EXTINF:-1,RADIO STOTIS KAPSAI 
+http://91.211.246.42:8000/Kapsai.m3u
 #EXTINF:-1,MTVBASE2
 https://ch.iptvmate.net/5e935998a8414961bd42ffd9.m3u8
 #EXTINF:-1,MTVBASE
