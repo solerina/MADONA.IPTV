@@ -3,19 +3,17 @@
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:-1, TGFM RADIJAS
 http://radijas.tgfm.lt:8000/
-#EXTINF:-1,RADIO STOTIS KAPSAI 
-http://91.211.246.42:8000/Kapsai.m3u
 #EXTINF:-1,teen
 http://cdn.adultiptv.net/teen.m3u8	
-#EXTINF:-1,GEJU TELEVIZIJA
+#EXTINF:-1,gay
 http://cdn.adultiptv.net/gay.m3u8	
-#EXTINF:-1,FETISO TELEVIZIJA
+#EXTINF:-1,Fetish
 http://cdn.adultiptv.net/fetišas.m3u8	
-#EXTINF:-1,LEZBIJECIU TELEVIZIJA
+#EXTINF:-1,bigdick
 http://cdn.adultiptv.net/bigdick.m3u8	
-#EXTINF:-1,EROTINE TELEVIZIJA
+#EXTINF:-1,bigtits
 http://cdn.adultiptv.net/bigtits.m3u8	
-#EXTINF:-1,TRYSE SU VIENA
+#EXTINF:-1,threesome
 http://cdn.adultiptv.net/threesome.m3u8	
 #EXTINF:-1,russian
 http://cdn.adultiptv.net/russian.m3u8
@@ -45,20 +43,10 @@ http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1,hardcore
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-#EXTINF:-1,EROTINE TELEVIZIJA 
+#EXTINF:-1,ultra
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1,EROTINE TELEVIZIJA
+#EXTINF:-1,ultra
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1,LTR radias
-https:\lituanica-dvr.lrt.lt\lrt_radijas\hls\lrt_radijas_cam1_480p\index.m3u
-#EXTINF:-1,NOVARUSIA HD
-http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,MIR HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,KINOSIAUBAS TV 
-http://live03-cdn.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
-#EXTINF:-1,EROTINE TV
-https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:-1,neizvesnaj planeta
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 group-title="XXX",AST TV HD
