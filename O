@@ -19,8 +19,6 @@ http://cdn.adultiptv.net/bigtits.m3u8
 http://cdn.adultiptv.net/threesome.m3u8	
 #EXTINF:-1,russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1,TV1000 HD
-http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1,rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1,pov
@@ -47,93 +45,22 @@ http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1,hardcore
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-#EXTINF:-1,ultra1
+#EXTINF:-1,EROTINE TELEVIZIJA 
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1,ultra2
+#EXTINF:-1,EROTINE TELEVIZIJA
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1,LTR radias
 https:\lituanica-dvr.lrt.lt\lrt_radijas\hls\lrt_radijas_cam1_480p\index.m3u
 #EXTINF:-1,NOVARUSIA HD
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,rusian EXTRA TV 
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-#EXTINF:-1,PETNICA HD
-https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,RUTVHD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1,LIUBIMA TV
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,SONG TV RUSIA HD
-https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1,KINOUZAS 
+#EXTINF:-1,KINOSIAUBAS TV 
 http://live03-cdn.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
-#EXTINF:-1,NRJAI HITS HD
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1,TNT 4HD
-https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
-#EXTINF:-1,IZVESTIA RU HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,pabda ha
+#EXTINF:-1,EROTINE TV
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
-#EXTINF:-1,rusian EXTRA TV 
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-#EXTINF:-1,HTB HD
-http://188.35.9.5:10007/stolen/141n/parasite.install
 #EXTINF:-1,neizvesnaj planeta
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
-
-
-
-
-
-
-#EXTINF:-1 .net/i/kntvb2_1@15530/master.m3u8
-#EXTINF:-1 group-title="News",NBC 4 News (Washington DC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 group-title="News",NBC 5 News (Chicago)
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-#EXTINF:-1 group-title="News",NBC 11 News (Bay Area)
-
-https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 group-title="News",
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:-1 group-title="Sport",AD SPORTS 2
-
-http://43.255.241.173/arena1/mpegts
-#EXTINF:-1 group-title="Sport",Arena Sport 2
-http://43.255.241.173/arena2/mpegts
-#EXTINF:-1 group-title="Sport",Arena Sport 3
-http://43.255.241.173/arena3/mpegts
-#EXTINF:-1 group-title="Sport",Arryadia Sport
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="Sport",Art Sports
-http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",Arte HD
-http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Bahrain Sport
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
-#EXTINF:-1 group-title="Sport",Bahrain Sport 2
-http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",BT Sport 1
-http://145.239.4.98:8080/BTSp1/mono.m3u8
-#EXTINF:-1 group-title="Sport",BT Sport 2
-http://145.239.4.98:8080/BTSp2/mono.m3u8
-#EXTINF:-1 group-title="Sport",BT Sport 3
-http://145.239.4.98:8080/BTSpE/mono.m3u8
-#EXTINF:-1 group-title="Sport",CBC Sport
-http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
-#EXTINF:-1 group-title="Sport",CBC Sport HD
-http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
-#EXTINF:-1 group-title="Sport",CCTV 5 Sport HD
-http://111.40.205.107/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="Sport",Combat Go
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:-1 group-title="Sport",D Sport
-http://jiocgehub.jio.ril.com/D
-http://rmtvlive
-
 #EXTINF:-1 group-title="XXX",AST TV HD
 https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1 group-title="XXX",AST TV 2
@@ -246,5 +173,3 @@ http://178.69.23.26:8000/play/28-bskyb-xpanded-tv-df3cca7
 http://178.69.23.26:8000/play/28-bskyb-xpanded-tv2-1208a77
 #EXTINF:-1 group-title="XXX",XXL
 http://130.180.93.142:8001/1:0:1:1D4:26AC:13F:820000:0:0:0
-#EXTINF:-1 group-title="XXX",Русская Ночь
-http://persik.tv/stream/6299/10/10326.m3u8
