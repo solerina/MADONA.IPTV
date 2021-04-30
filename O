@@ -1,66 +1,10 @@
 #EXTM3U
 #EXTINF:-1,STR TV
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
-#EXTINF:-1,STR TV 1
-https://tna5.bozztv.com/strtv/index.m3u8
-#EXTINF:-1,STR TV 2
-http://hls.goodgame.ru:80/hls/130048.m3u8
-#EXTINF:-1,STR-TV3
-https://hls.goodgame.ru/manifest/182277_master.m3u8
 #EXTINF:-1, TGFM RADIJAS
 http://radijas.tgfm.lt:8000/
-#EXTINF:-1,STR-TV4
-http://cdnnow.goodgame.ru/hls/182277.m3u8
-#EXTINF:-1,STR-TV5
-http://dmitry-tv.my1.ru/his/02/CH_STRTV.m3u8
 #EXTINF:-1,RADIO STOTIS KAPSAI 
 http://91.211.246.42:8000/Kapsai.m3u
-#EXTINF:-1,STR TV .UA
-https://strtv.at.ua/hls/index.m3u8
-#EXTINF:-1,MTVBASE
-https://ch.iptvmate.net/5e9359a0a8414961bd42ffda.m3u8
-#EXTINF:-1,INFOTV
-https://ch.iptvmate.net/5e93595e0eb57c600f104c19.m3u8
-#EXTINF:-1,MTV CLASIC
-https://ch.iptvmate.net/5e9359b08f689e2c1721f5b3.m3u8
-#EXTINF:-1,RUTVHD
-https://ch.iptvmate.net/5e935e74d3e2460fcd4db966.m3u8
-#EXTINF:-1,SKYSINEMA+
-https://ch.iptvmate.net/5e9360bfa655d41c45676f14.m3u8
-#EXTINF:-1,SKYFOX
-https://ch.iptvmate.net/5e9360c0ca80de49cb67ac91.m3u8
-#EXTINF:-1,SKYSYFY
-https://ch.iptvmate.net/5e9360dba8414961bd430164.m3u8
-#EXTINF:-1,SKYSINEMAHD
-https://ch.iptvmate.net/5e9360ebee54cf5341561296.m3u8
-#EXTINF:-1,SKY HITS HD
-https://ch.iptvmate.net/5e9361248f689e2c1721f7fd.m3u8
-#EXTINF:-1,TV2000
-https://ch.iptvmate.net/5e9365eca8414961bd430308.m3u8
-#EXTINF:-1,H2
-https://ch.iptvmate.net/5e9367e109e7561d26637279.m3u8
-#EXTINF:-1,MUZ TV
-https://ch.iptvmate.net/5e936843bb2cdb095a00daaa.m3u8
-#EXTINF:-1,EPIC DRAMA HD
-https://ch.iptvmate.net/5e9368597587ee5ce732259b.m3u8
-#EXTINF:-1,MUSIC PERVAVO
-https://ch.iptvmate.net/5e93686abb2cdb095a00dad3.m3u8
-#EXTINF:-1,MULT HD
-https://ch.iptvmate.net/5e93686bbb2cdb095a00dad5.m3u8
-#EXTINF:-1,BRIDGE TV CLASIC
-https://ch.iptvmate.net/5e93688436123957627ff472.m3u8
-#EXTINF:-1,CLUBLAND TV 
-https://ch.iptvmate.net/5e936902fcfc6f70d6178f75.m3u8
-#EXTINF:-1,BTV HD
-https://ch.iptvmate.net/5e93698c42cab83dde100f42.m3u8
-#EXTINF:-1,AUKSINis
-https://ch.iptvmate.net/5e9369a042cab83dde100f4c.m3u8
-#EXTINF:-1,FILTV
-https://ch.iptvmate.net/5e93589ea655d41c45676c83.m3u8
-#EXTINF:-1,FIT BOX
-http://92.43.140.249/s86/04.m3u8?version=2
-#EXTINF:-1,STRTV HD 
-https://ch.iptvmate.net/5e935ff08f689e2c1721f7bc.m3u8
 #EXTINF:-1,teen
 http://cdn.adultiptv.net/teen.m3u8	
 #EXTINF:-1,gay
@@ -77,8 +21,6 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1,TV1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1,EURODANCE 90
-https://v2.catcast.tv/content/38204/index.m3u8
 #EXTINF:-1,rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1,pov
@@ -139,8 +81,6 @@ http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,MIR HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,EURODANCE 90
-https://v2.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1,RASIA RTR
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:-1,SONG TV RUSIA HD
@@ -157,8 +97,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:-1,rusian EXTRA TV 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-#EXTINF:-1,EURODANCE
-http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1,PETNICA HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,EURODANCE J
@@ -177,8 +115,6 @@ https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,KROXA MUZIC
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,CANDY MAN
-http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Evgen Serial
 https://autopilot.catcast.tv/content2/36168/index.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Evgen СССР
@@ -3015,16 +2951,6 @@ http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
 #EXTINF:-1 group-title="Erotic",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 group-title="Erotic",Nuart TV
-http://persik.tv/stream/6299/10/10325.m3u8
-#EXTINF:-1 group-title="Erotic",Nuart TV HD
-http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Erotic",Visit-X
-http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 group-title="Erotic",Visit-X HD
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="XXX",AST TV
-http://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XXX",AST TV HD
 https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1 group-title="XXX",AST TV 2
@@ -3139,7 +3065,3 @@ http://178.69.23.26:8000/play/28-bskyb-xpanded-tv2-1208a77
 http://130.180.93.142:8001/1:0:1:1D4:26AC:13F:820000:0:0:0
 #EXTINF:-1 group-title="XXX",Русская Ночь
 http://persik.tv/stream/6299/10/10326.m3u8
-#EXTINF:-1 group-title="Заставки",Камин
-http://persik.tv/stream/6299/10/10496.m3u8
-#EXTINF:-1 group-title="Заставки",Релакс
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
