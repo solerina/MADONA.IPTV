@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="Региональные",Крым 24 HD
+http://live.1tvcrimea.ru:8080/switcher.m3u8
+#EXTINF:-1,LIUBIMA TV
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные",ОТР
+http://stream3.kuvalda.tv/hls/otr.m3u8
+#EXTINF:-1,MIR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,PETNICA HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1,NOVARUSIA HD
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1,STR TV
