@@ -7,6 +7,8 @@ https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,RADIO STOTIS KAPSAI 
 http://91.211.246.42:8000/Kapsai.m3u
+#EXTINF:-1,PARAMOUNT HD
+http://31.134.132.242:8080/paramount_channel_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZVEZDA HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,ZALOTAJA CALEKCIJA HD
