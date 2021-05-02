@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TNT 4HD
-https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:-1,IZVESTIA RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,ROSTOV PAPA HD
-http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1,SONG TV RUSIA HD
-https://songtvru.ru/lhigh/playlist.m3u8
-#EXTINF:-1,NRJAI HITS HD
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1,RADIO STOTIS KAPSAI 
 http://91.211.246.42:8000/Kapsai.m3u
 #EXTINF:-1,ZVEZDA HD
