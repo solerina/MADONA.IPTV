@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TNT 4HD
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:-1,IZVESTIA RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,ROSTOV PAPA HD
