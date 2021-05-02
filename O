@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,NOVARUSIA HD
+http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1,STR TV
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:-1, TGFM RADIJAS
