@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-,SMALINKI
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,MIR MESTIE 
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Kronehit HD
