@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,HORROR TV
+http://autopilot.catcast.tv/content/38710/index.m3u8
 #EXTINF:-,AKUDJI TV
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-,SMALINKI
