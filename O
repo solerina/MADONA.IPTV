@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-,AKUDJI TV
+http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-,SMALINKI
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,MIR MESTIE 
