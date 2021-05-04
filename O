@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,NASE NOVOE KINO 
+http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,MUSKOE KINO 
+http://81.163.39.156:8384/udp/233.166.172.154:1234
+#EXTINF:-1,HCT TB
+http://37.99.5.234/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1,KINO+
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1,CCP KINO
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1,CCP TB
+https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1,Europa Plus TV HD
 http://81.163.39.156:8384/udp/233.166.172.93:1234
 #EXTINF:-1,TB3 HD
@@ -47,6 +59,8 @@ http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:-1, TGFM RADIJAS
 http://radijas.tgfm.lt:8000/
+#EXTINF:-1,RUSKOE NOCH
+http://81.163.39.156:8384/udp/233.166.172.155:1234
 #EXTINF:-1,teen
 http://cdn.adultiptv.net/teen.m3u8	
 #EXTINF:-1,gay
