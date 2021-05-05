@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,PEREC TV HD
+http://93.189.224.118:9030/peretz?utcstart=883174874826&version=2
 #EXTINF:-1,NASE NOVOE KINO 
 http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:-1,MUSKOE KINO 
