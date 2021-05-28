@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,LRT RADIAS
+https://lrt-live.lrt.lt/radijas/hls/radijas-video_540p/index.m3u8
+#EXTINF:-1,LRT PLIUS
+https://plius.lrt.lt/secure/plius/hls/RnZNjJIWt1p7JJ3krfXahQ/1622182523/lrt-plius_540p/index.m3u8
+#EXTINF:-1,LRT RLITUANICA
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
 #EXTINF:-1,neizvesnaj planeta
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1,PEREC TV HD
