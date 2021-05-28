@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1,LRT PLIUSS
+https://plius.lrt.lt/secure/plius/hls/jWMuLk5seUB-_3djkXesRg/1622200319/lrt-plius_540p/index.m3u8
 #EXTINF:-1,LRT RADIAS
 https://lrt-live.lrt.lt/radijas/hls/radijas-video_540p/index.m3u8
 #EXTINF:-1,LRT PLIUS
-https://plius.lrt.lt/secure/plius/hls/RnZNjJIWt1p7JJ3krfXahQ/1622182523/lrt-plius_540p/index.m3u8
+https://lrthd.lrt.lt/secure/lrt_hd/hls/rid7jRF5F_Bw1W88vX1iEA/1622199962/lrt_televizija_540p/index.m3u8
 #EXTINF:-1,LRT RLITUANICA
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
 #EXTINF:-1,neizvesnaj planeta
