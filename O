@@ -195,28 +195,6 @@ http://178.69.23.26:8000/play/28-bskyb-xpanded-tv-df3cca7
 http://178.69.23.26:8000/play/28-bskyb-xpanded-tv2-1208a77
 #EXTINF:-1 group-title="XXX",XXL
 http://130.180.93.142:8001/1:0:1:1D4:26AC:13F:820000:0:0:0
-
-Skip to content
-solerina
-/
-MADONA.IPTV
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-More
-Update O
-
- master
-@solerina
-solerina committed on 1 Mar
-1 parent 2599fd6 commit d8e6a10d4231e4983a6b2239b698592597475be6
-Showing  with 2 additions and 2 deletions.
-  4  O 
-@@ -15,8 +15,8 @@ http://cdnnow.goodgame.ru/hls/182277.m3u8
-http://dmitry-tv.my1.ru/his/02/CH_STRTV.m3u8
 #EXTINF:-1,RADIO STOTIS KAPSAI 
 http://91.211.246.42:8000/Kapsai.m3u
 #EXTINF:-1,MTVBASE2
