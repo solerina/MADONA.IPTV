@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:30,chunklist_w1293546747_b1500000.m3u8
+https://video.m-1.fm/m-1/smil:m-1.smil/chunklist_w1293546747_b1500000.m3u8
 #EXTINF:32,chunklist_w164223142_b1500000.m3u8
 https://video.m-1.fm/lietus/smil:lietus.smil/chunklist_w164223142_b1500000.m3u8
 #EXTINF:-1,LRT RADIAS
