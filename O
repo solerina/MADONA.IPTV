@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:32,chunklist_w164223142_b1500000.m3u8
+https://video.m-1.fm/lietus/smil:lietus.smil/chunklist_w164223142_b1500000.m3u8
 #EXTINF:-1,LRT RADIAS
 https://lrt-live.lrt.lt/radijas/hls/radijas-video_540p/index.m3u8
 #EXTINF:-1,LRT RLITUANICA
