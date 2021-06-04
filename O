@@ -1,23 +1,11 @@
 #EXTM3U
-#EXTINF:-1,2HD
-https://live.lnk.lt/lnk_live2/2tv/chunklist_w110012282_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYyMjY1ODY2NCZ0b2tlbmhhc2g9M2wwTkNpSlg1S3Z2aE9yZ25oTG41NWJDMjBHVzdWcG5DNDFtb3ZmN0JILWI4TnBrdXpXLWJHZENremc0VzFiZDNwSmJWbWdMTzNhU1ZhME9CT3lnSkE9PQ==.m3u8
-#EXTINF:-1,LNKY
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/chunklist_w1689034007_b2692000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYyMjY1OTE5NSZ0b2tlbmhhc2g9UGlFREkxMXZWaEw2WXNQUG5NblRNRnc0Z3hJRFFFMk1vSUM4NHRaWjcxY3JTelptSEpwMXgyajhkVlpvZ2JpRDhTM0Y1OFp0RVB2QlNiYWVzT3BINlE9PQ==.m3u8
-#EXTINF:-1,BTV
-https://live.lnk.lt/lnk_live2/btvhd/chunklist_w2053654653_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYyMjY1OTM0NCZ0b2tlbmhhc2g9UkdpWDdrQWhKX1BVUktLWVVTemdrX1hFR29qM2lvQjF6TWliaXRBOTljR1ZoNy1abEdJcXh6VHh5Y0FJUlV6ZmQwNkhnM3I0cUdyNGdNOWpWQWx6Y2c9PQ==.m3u8
-#EXTINF:-1,LNK
-https://live.lnk.lt/lnk_live2/2tv/chunklist_w110012282_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYyMjY1ODY2NCZ0b2tlbmhhc2g9M2wwTkNpSlg1S3Z2aE9yZ25oTG41NWJDMjBHVzdWcG5DNDFtb3ZmN0JILWI4TnBrdXpXLWJHZENremc0VzFiZDNwSmJWbWdMTzNhU1ZhME9CT3lnSkE9PQ==.m3u8
-#EXTINF:-1,LNK
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/chunklist_w1689034007_b2692000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYyMjY1OTE5NSZ0b2tlbmhhc2g9UGlFREkxMXZWaEw2WXNQUG5NblRNRnc0Z3hJRFFFMk1vSUM4NHRaWjcxY3JTelptSEpwMXgyajhkVlpvZ2JpRDhTM0Y1OFp0RVB2QlNiYWVzT3BINlE9PQ==.m3u8
-#EXTINF:-1,LNK TV HD
-https://live.lnk.lt/lnk_live2/2tv/chunklist_w110012282_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYyMjY1ODY2NCZ0b2tlbmhhc2g9M2wwTkNpSlg1S3Z2aE9yZ25oTG41NWJDMjBHVzdWcG5DNDFtb3ZmN0JILWI4TnBrdXpXLWJHZENremc0VzFiZDNwSmJWbWdMTzNhU1ZhME9CT3lnSkE9PQ==.m3u8
-#EXTINF:-1,RADIO STOYIS M1
+#EXTINF:-1,RADIO STOTIS M1
 https://video.m-1.fm/m-1/smil:m-1.smil/chunklist_w1293546747_b1500000.m3u8
 #EXTINF:-1,RADIO STOTIS LIETUS
 https://video.m-1.fm/lietus/smil:lietus.smil/chunklist_w164223142_b1500000.m3u8
 #EXTINF:-1,LRT RADIAS
 https://lrt-live.lrt.lt/radijas/hls/radijas-video_540p/index.m3u8
-#EXTINF:-1,LRT RLITUANICA
+#EXTINF:-1,LRT LITUANICA
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_480p/index.m3u8
 #EXTINF:-1,neizvesnaj planeta
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
