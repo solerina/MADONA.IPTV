@@ -23,8 +23,6 @@ http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 http://81.163.39.156:8384/udp/233.166.172.154:1234
 #EXTINF:-1,HCT TB
 http://37.99.5.234/btv/SWM/HCT/HCT.m3u8
-#EXTINF:-1,KBC CTPAHA CCCP
-https://v2.catcast.tv/content/38798/index.m3u8
 #EXTINF:-1,KBC CTPAHA CCCP+
 https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,KBC CPAHA CCCP 
