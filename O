@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,EURODANC 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8?rand=0.5439537896948934
+#EXTINF:-1,VIVA RUSIA
+https://stream.funcontent.ru/hls/vivarussia/index.m3u8
 #EXTINF:-1,RADIO STOTIS M1
 https://video.m-1.fm/m-1/smil:m-1.smil/chunklist_w1293546747_b1500000.m3u8
 #EXTINF:-1,RADIO STOTIS LIETUS
