@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,POWWER HIT RADIO
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/Dash_0utput/PWR_LTU_Live.mpd
 #EXTINF:-1,EURO
 https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
 #EXTINF:-1,EURODANC 90
