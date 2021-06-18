@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,RADIO STOTIS KAPSAI 
+http://91.211.246.42:8000/Kapsai.m3u
 #EXTINF:-1,RITSA TV HD
 https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
 #EXTINF:-1,EURODANCE90
