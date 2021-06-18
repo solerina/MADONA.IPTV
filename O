@@ -27,6 +27,8 @@ http://37.99.5.234/btv/SWM/HCT/HCT.m3u8
 https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,KBC CPAHA CCCP 
 https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,KBC CTPAHA CCCP
+https://v2.catcast.tv/content/38798/index.m3u8
 #EXTINF:-1,Europa Plus TV HD
 http://81.163.39.156:8384/udp/233.166.172.93:1234
 #EXTINF:-1,TB3 HD
