@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MIR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,STR TV
 https://hls.myvideocontent.ru/hls2/strtv/index.m3u8
 #EXTINF:-1, TGFM RADIJAS
